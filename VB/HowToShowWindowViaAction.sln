@@ -1,0 +1,63 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HowToShowWindowViaAction.Module", "HowToShowWindowViaAction.Module\HowToShowWindowViaAction.Module.vbproj", "{0F260FF3-7DF8-427D-8478-1D9F66EA7F2D}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HowToShowWindowViaAction.Module.Web", "HowToShowWindowViaAction.Module.Web\HowToShowWindowViaAction.Module.Web.vbproj", "{47612593-DB23-4856-9DF9-D739250E77CF}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HowToShowWindowViaAction.Web", "HowToShowWindowViaAction.Web\HowToShowWindowViaAction.Web.vbproj", "{0BC514A4-4C6F-45F2-B2BA-54164AA5CB88}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HowToShowWindowViaAction.Module.Win", "HowToShowWindowViaAction.Module.Win\HowToShowWindowViaAction.Module.Win.vbproj", "{D12AE386-15DA-4FF1-AFF2-0C8003008D05}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HowToShowWindowViaAction.Win", "HowToShowWindowViaAction.Win\HowToShowWindowViaAction.Win.vbproj", "{3FBBCC1D-E5D5-4724-B4C1-28D989736C9B}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F260FF3-7DF8-427D-8478-1D9F66EA7F2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F260FF3-7DF8-427D-8478-1D9F66EA7F2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F260FF3-7DF8-427D-8478-1D9F66EA7F2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F260FF3-7DF8-427D-8478-1D9F66EA7F2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47612593-DB23-4856-9DF9-D739250E77CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47612593-DB23-4856-9DF9-D739250E77CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47612593-DB23-4856-9DF9-D739250E77CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47612593-DB23-4856-9DF9-D739250E77CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BC514A4-4C6F-45F2-B2BA-54164AA5CB88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BC514A4-4C6F-45F2-B2BA-54164AA5CB88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BC514A4-4C6F-45F2-B2BA-54164AA5CB88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BC514A4-4C6F-45F2-B2BA-54164AA5CB88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D12AE386-15DA-4FF1-AFF2-0C8003008D05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D12AE386-15DA-4FF1-AFF2-0C8003008D05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D12AE386-15DA-4FF1-AFF2-0C8003008D05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D12AE386-15DA-4FF1-AFF2-0C8003008D05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FBBCC1D-E5D5-4724-B4C1-28D989736C9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FBBCC1D-E5D5-4724-B4C1-28D989736C9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FBBCC1D-E5D5-4724-B4C1-28D989736C9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FBBCC1D-E5D5-4724-B4C1-28D989736C9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
